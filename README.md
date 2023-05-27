@@ -1,17 +1,20 @@
 # judiciary
 
-Africa Legal Research Tool
-Citizen User(Non legal personel)
-Access to the Constitution
-Access to Laws governing certain situations
-Access to Legal support (Getting a Lawyer through the App.)
-This platform can provide legal advice, connect individuals with legal professionals, and educate the public about their rights and responsibilities.
-2. Lawyers (Legal Personnel)
-Research cases base on previous verdict on similar case
-Legal Research Tools: Creating software tools that provide easy access to legal resources, such as case law, statutes, and legal commentary, can support judges, lawyers, and legal researchers. These tools can help in conducting thorough legal research, making informed decisions, and improving the overall quality of legal arguments and judgments.
-3. Developers (Features)
-incorporate AI in the APP so as to help in interpreting the Law for non-legal users.
-Implementing encryption, access controls, and data protection protocols are vital to ensure confidentiality, integrity, and availability of judicial information.
+Africa Legal Research Tool<br>
+Citizen User(Non legal personel)<br>
+Access to the Constitution<br>
+Access to Laws governing certain situations<br>
+Access to Legal support (Getting a Lawyer through the App.)<br>
+This platform can provide legal advice, connect individuals with legal professionals, and educate the public about their rights and responsibilities.<br>
+
+- 2. Lawyers (Legal Personnel) <br>
+Research cases base on previous verdict on similar case <br>
+Legal Research Tools: Creating software tools that provide easy access to legal resources, such as case law, statutes, and legal commentary, can support judges, lawyers, and legal researchers.<br> 
+These tools can help in conducting thorough legal research, making informed decisions, and improving the overall quality of legal arguments and judgments.<br>
+
+3. Developers (Features)<br>
+incorporate AI in the APP so as to help in interpreting the Law for non-legal users.<br>
+Implementing encryption, access controls, and data protection protocols are vital to ensure confidentiality, integrity, and availability of judicial information.<br>
 Adding a Feature that can take citizens review and feed back as to certain bill is passing in Paliament.
 
 
